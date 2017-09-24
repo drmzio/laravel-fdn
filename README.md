@@ -44,7 +44,7 @@ Then, create the new .env file
 cp .env.example .env
 ```
 
-Finally, generate an new app key using:
+Finally, generate a new app key using:
 ```
 php artisan key:generate
 ```
