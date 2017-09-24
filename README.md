@@ -1,6 +1,9 @@
 ## Introduction
 Laravel 5 + Zurb Foundation 6 (Boilerplate)
 
+## Versions
+- Laravel 5.5
+- Zurb Foundation 6.4.2
 
 ## Install
 Grab the latest copy of laravel-fdn
