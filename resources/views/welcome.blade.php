@@ -25,7 +25,7 @@
                 <ul class="menu align-center">
                     <li><a href="https://foundation.zurb.com/sites/docs/">Zurb Foundation Docs</a></li>
                     <li><a href="https://laravel.com/docs/master">Laravel Docs</a></li>
-                    <li><a href="https://github.com/ompmega/laravel-foundation">Laravel Foundation GitHub</a></li>
+                    <li><a href="https://github.com/ompmega/laravel-fdn">ompmega/laravel-fdn</a></li>
                 </ul>
             </div>
         </div>
