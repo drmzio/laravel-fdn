@@ -1,6 +1,6 @@
 {
-    "name": "laravel/laravel",
-    "description": "The Laravel Framework.",
+    "name": "ompmega/laravel-fdn",
+    "description": "Laravel 5 + Zurb Foundation 6 (Boilerplate)",
     "keywords": ["framework", "laravel"],
     "license": "MIT",
     "type": "project",
