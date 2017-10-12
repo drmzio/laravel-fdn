@@ -5,7 +5,7 @@ Zurb Foundation 6 included with Laravel 5 (boilerplate). Made for artisans who l
 - Changed the default `welcome.blade.php` look (to show proof that foundation is working)
 
 ## Versions
-- Laravel 5.5
+- Laravel 5.5.14
 - Zurb Foundation 6.4.2
 
 ## Install
