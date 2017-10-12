@@ -9,7 +9,11 @@ Zurb Foundation 6 included with Laravel 5 (boilerplate). Made for artisans who l
 - Zurb Foundation 6.4.2
 
 ## Install
-Grab the latest copy of laravel-fdn
+First, create a new project
+```
+composer create-project ompmega/laravel-fdn <project_name>
+```
+..or..
 ```
 git clone https://github.com/ompmega/laravel-fdn.git <project_name>
 ```
