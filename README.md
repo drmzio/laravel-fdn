@@ -1,12 +1,12 @@
 ## Introduction
-Zurb Foundation 6 included with Laravel 5 (boilerplate). Made for artisans who love Foundation 6 just as much as we do. We made a few changes to the default installation of Laravel 5.5, and got rid of default Bootstrap that comes with it.
+Zurb Foundation 6 included with Laravel 5.5 (boilerplate). Made for artisans who love Foundation 6 just as much as we do. We made a few changes to the default installation of Laravel 5.5, and got rid of default Bootstrap that comes with it.
 - Removed all Bootstrap code
 - Remove all Vue code using `php artisan preset none` command
 - Changed the default `welcome.blade.php` look (to show proof that foundation is working)
 
 ## Versions
-- Laravel 5.5.14
-- Zurb Foundation 6.4.2
+- Laravel 5.5+
+- Zurb Foundation 6.4+
 
 ## Install
 First, create a new project
